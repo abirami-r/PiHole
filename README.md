@@ -52,34 +52,6 @@ As a last resort, you can always manually set each device to use Pi-hole as thei
 
 -----
 
-## Pi-hole is free, but powered by your support
-There are many reoccurring costs involved with maintaining free, open source, and privacy-respecting software; expenses which [our volunteer developers](https://github.com/orgs/pi-hole/people) pitch in to cover out-of-pocket. This is just one example of how strongly we feel about our software, as well as the importance of keeping it maintained.
-
-Make no mistake: **your support is absolutely vital to help keep us innovating!**
-
-### Donations
-Sending a donation using our links below is **extremely helpful** in offsetting a portion of our monthly expenses:
-
-- <img src="https://pi-hole.github.io/graphics/Badges/paypal-badge-black.svg" width="24" height="24" alt="PP"/> <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3J2L3Z4DHW9UY">Donate via PayPal</a><br/>
-- <img src="https://pi-hole.github.io/graphics/Badges/bitcoin-badge-black.svg" width="24" height="24" alt="BTC"/> [Bitcoin, Bitcoin Cash, Ethereum, Litecoin](https://commerce.coinbase.com/checkout/dd304d04-f324-4a77-931b-0db61c77a41b)
-
-### Alternative support
-If you'd rather not [donate](https://pi-hole.net/donate/) (_which is okay!_), there are other ways you can help support us:
-- [Patreon](https://patreon.com/pihole) _Become a patron for rewards_
-- [Digital Ocean](http://www.digitalocean.com/?refcode=344d234950e1) _affiliate link_
-- [Stickermule](https://www.stickermule.com/unlock?ref_id=9127301701&utm_medium=link&utm_source=invite) _earn a $10 credit after your first purchase_
-- [Pi-hole Swag Store](https://pi-hole.net/shop/) _affiliate link_
-- [Amazon](http://www.amazon.com/exec/obidos/redirect-home/pihole09-20) _affiliate link_
-- [DNS Made Easy](https://cp.dnsmadeeasy.com/u/133706) _affiliate link_
-- [Vultr](http://www.vultr.com/?ref=7190426) _affiliate link_
-- Spreading the word about our software, and how you have benefited from it
-
-### Contributing via GitHub
-We welcome _everyone_ to contribute to issue reports, suggest new features, and create pull requests.
-
-If you have something to add - anything from a typo through to a whole new feature, we're happy to check it out! Just make sure to fill out our template when submitting your request; the questions that it asks will help the volunteers quickly understand what you're aiming to achieve.
-
-You'll find that the [install script](https://github.com/pi-hole/pi-hole/blob/master/automated%20install/basic-install.sh) and the [debug script](https://github.com/pi-hole/pi-hole/blob/master/advanced/Scripts/piholeDebug.sh) have an abundance of comments, which will help you better understand how Pi-hole works. They're also a valuable resource to those who want to learn how to write scripts or code a program! We encourage anyone who likes to tinker to read through it and submit a pull request for us to review.
 
 ### Presentations about Pi-hole
 Word-of-mouth continues to help our project grow immensely, and so we are helping make this easier for people.
@@ -88,22 +60,6 @@ If you are going to be presenting Pi-hole at a conference, meetup or even a scho
 
 -----
 
-## Getting in touch with us
-While we are primarily reachable on our <a href="https://discourse.pi-hole.net/">Discourse User Forum</a>, we can also be found on a variety of social media outlets. **Please be sure to check the FAQ's** before starting a new discussion, as we do not have the spare time to reply to every request for assistance.
-
-<ul>
-  <li><a href="https://discourse.pi-hole.net/c/faqs">Frequently Asked Questions</a></li>
-  <li><a href="https://github.com/pi-hole/pi-hole/wiki">Pi-hole Wiki</a></li>
-  <li><a href="https://discourse.pi-hole.net/c/feature-requests?order=votes">Feature Requests</a></li>
-  <li><a href="https://discourse.pi-hole.net/">Discourse User Forum</a></li>
-  <li><a href="https://www.reddit.com/r/pihole/">Reddit</a></li>
-  <li><a href="https://gitter.im/pi-hole/pi-hole">Gitter</a> (Real-time chat)</li>
-  <li><a href="https://twitter.com/The_Pi_Hole">Twitter</a></li>
-  <li><a href="https://www.youtube.com/channel/UCT5kq9w0wSjogzJb81C9U0w">YouTube</a></li>
-  <li><a href="https://www.facebook.com/ThePiHole/">Facebook</a></li>
-</ul>
-
------
 
 ## Breakdown of Features
 ### The Command Line Interface
@@ -205,9 +161,3 @@ While quite outdated at this point, [this original blog post about Pi-hole](http
 
 -----
 
-## Pi-hole Projects
-- [The Big Blocklist Collection](https://wally3k.github.io)
-- [Pie in the Sky-Hole](https://dlaa.me/blog/post/skyhole)
-- [Copernicus: Windows Tray Application](https://github.com/goldbattle/copernicus)
-- [Magic Mirror with DNS Filtering](https://zonksec.com/blog/magic-mirror-dns-filtering/#dnssoftware)
-- [Windows DNS Swapper](https://github.com/roots84/DNS-Swapper)
